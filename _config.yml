@@ -6,12 +6,12 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "es-CO"
 title                    : "Juan Esteban Mejía Velásquez"
 title_separator          : "-"
 name                     : "Juan Esteban Mejía Velásquez"
 description              : "Pagina personal de Juan Esteban Mejía Velásquez"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://jestebanmejiav.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -65,7 +65,10 @@ google_ad_slot           :
 author:
   name             : "Juan Esteban Mejía Velásquez"
   avatar           : "JEsteban.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Economist of information, technology and behavior."
+                     "I integrate the mathematical modeling with statistical"
+                     "focusing on the human beings and their environment."
+                    
   location         : "Medellín - Colombia"
   email            : "juanesteban8@gmail.com"
   uri              :

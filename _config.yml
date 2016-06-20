@@ -80,13 +80,13 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "Perfil públicohttps://co.linkedin.com/in/juanestebanmejiav"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "https://twitter.com/JEstebanMV"
   vine             :
   weibo            :
   xing             :
@@ -151,7 +151,7 @@ kramdown:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Bogota # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

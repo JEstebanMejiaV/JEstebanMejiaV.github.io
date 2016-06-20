@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Juan Esteban Mejía Velásquez"
 title_separator          : "-"
 name                     : "Juan Esteban Mejía Velásquez"
-description              : "An amazing website."
+description              : "Pagina personal de Juan Esteban Mejía Velásquez"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -36,7 +36,7 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
+twitter:  https://twitter.com/JEstebanMV
   username               :
 facebook:
   username               :
@@ -63,11 +63,11 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Juan Esteban Mejía Velásquez"
   avatar           : "bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  location         : "Medellín - Colombia"
+  email            : "juanesteban8@gmail.com"
   uri              :
   bitbucket        :
   codepen          :

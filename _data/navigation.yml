@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "Acerca"
-    url: 
+    url: /Acerca/
 
   - title: "Projectos"
-    url: 
+    url: /Projectos/
 
   - title: "AIDA (Artificial Intelligence and Data Analytics)"
-    url: 
+    url: /AIDA (Artificial Intelligence and Data Analytics)/
 
   - title: "Cursos"
-    url: 
+    url: /Cursos/
 
   - title: "Post"
-    url: 
+    url: /Post/

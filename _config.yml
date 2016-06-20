@@ -36,7 +36,7 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:  https://twitter.com/JEstebanMV
+twitter:  "https://twitter.com/JEstebanMV"
   username               :
 facebook:
   username               :
